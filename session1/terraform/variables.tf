@@ -9,7 +9,7 @@ variable "aws_region" {
 
 variable vpc_id {
   description = "AWS VPC id"
-  default     = "vpc-876ddde1"
+  default     = "vpc-4ac69030"
 }
 
 variable "ingress_ports" {
